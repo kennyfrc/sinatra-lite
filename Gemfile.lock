@@ -16,6 +16,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  method_source
   pry-byebug
   rack
 
