@@ -43,3 +43,4 @@ end
 ```
 
 3. utilize query parameters
+4. learn the way sinatra implements tests
